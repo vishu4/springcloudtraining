@@ -2,4 +2,4 @@ test:
   message: First Hello ---Modified
   
 server:
-  port: 5050
+  port: 4040
