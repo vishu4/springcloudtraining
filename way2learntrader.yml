@@ -1,6 +1,6 @@
 spring:
   application:
-     name: way2learntrader
+     name: way2learntradertest
   datasource:
     url: jdbc:mysql://localhost/micro
     username: root
