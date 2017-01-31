@@ -1,4 +1,4 @@
 test:
   message: First XYZZZZZ
 server:
-  port: 4040
+  port: 5566
