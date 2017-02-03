@@ -1,4 +1,4 @@
 test:
-  message: First AAAAAAAAAAAAAAAAAAA
+  message: First BBBBBBB
 server:
   port: 5566
