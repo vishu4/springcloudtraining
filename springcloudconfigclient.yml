@@ -1,4 +1,4 @@
 test:
-  message: First BBB
+  message: First XYZ
 server:
   port: 3333
