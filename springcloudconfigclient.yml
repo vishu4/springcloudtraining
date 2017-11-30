@@ -1,4 +1,4 @@
 test:
   message: Siva
 server:
-  port: 5566
+  port: 0
