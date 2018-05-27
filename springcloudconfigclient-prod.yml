@@ -1,5 +1,5 @@
 test:
-  message: Man
+  message: ABCD
   
 server:
   port: 0
