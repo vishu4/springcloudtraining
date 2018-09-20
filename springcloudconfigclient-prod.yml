@@ -1,5 +1,5 @@
 test:
-  message: AAAAAA
+  message: BBBB
   
 server:
   port: 1122
