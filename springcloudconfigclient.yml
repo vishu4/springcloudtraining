@@ -1,4 +1,4 @@
 test:
-  message: Google
+  message: Moto
 server:
   port: 2233
