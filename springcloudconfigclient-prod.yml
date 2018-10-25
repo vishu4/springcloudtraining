@@ -1,5 +1,5 @@
 test:
-  message: Synechron
+  message: Pivotal
   
 server:
   port: 1122
