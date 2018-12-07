@@ -2,4 +2,4 @@ test:
   message: Manhattan
   
 server:
-  port: 1122
+  port: 3344
