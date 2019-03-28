@@ -1,4 +1,4 @@
 test:
-  message: Moto
+  message: Manhattan
 server:
   port: 2233
