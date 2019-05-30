@@ -1,5 +1,5 @@
 test:
-  message: Synechron
+  message: Google
   
 server:
   port: 3344
