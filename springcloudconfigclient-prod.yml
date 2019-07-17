@@ -1,5 +1,5 @@
 test:
-  message: Synechron
+  message: IBM
   
 server:
   port: 3344
