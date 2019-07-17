@@ -1,5 +1,5 @@
 test:
-  message: Apple
+  message: Synechron
   
 server:
   port: 3344
