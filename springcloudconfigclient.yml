@@ -1,4 +1,4 @@
 test:
-  message: BOFA
+  message: XYZ
 server:
   port: 2233
